@@ -1,13 +1,13 @@
 def addition(5,4)).to eq(9)
 end
 
-def subtraction(, num2)
+def subtraction(15,10)).to eq(25)
 end
 
-def division(num1, num2)
+def division(20, 5)). to eq(4)
 end
 
-def multiplication(num1, num2)
+def multiplication(1000, num2)
 end
 
 def modulo(num1, num2)
