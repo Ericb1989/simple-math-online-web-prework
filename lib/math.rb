@@ -7,7 +7,7 @@ end
 def division(20, 5)). to eq(4)
 end
 
-def multiplication(1000, num2)
+def multiplication(1000,num2)
 end
 
 def modulo(num1, num2)
