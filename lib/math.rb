@@ -13,7 +13,7 @@ end
 def modulo(5, 3)). to eq(3)
 end
 
-def square_root(num)
+def square_root(81)). to eq(9)
 end
 
 def order_of_operation(num1, num2, num3, num4)
