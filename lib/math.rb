@@ -16,6 +16,6 @@ end
 def square_root(81)). to eq(9)
 end
 
-def order_of_operation(num1, num2, num3, num4)
+def order_of_operation((7, 43, 23, 83)).to eq(18))
   #Hint:  __ + (( __ * __ ) / __ )
 end
