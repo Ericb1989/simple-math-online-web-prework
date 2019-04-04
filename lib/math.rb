@@ -4,13 +4,13 @@ end
 def subtraction(15,10)).to eq(25)
 end
 
-def division(20, 5)). to eq(4)
+def division(20, 5)).to eq(4)
 end
 
-def multiplication(1000,50). to eq(50000)
+def multiplication(1000,50)). to eq(50000)
 end
 
-def modulo(5, 3)
+def modulo(5, 3)). to eq(3)
 end
 
 def square_root(num)
