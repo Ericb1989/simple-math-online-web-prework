@@ -7,10 +7,10 @@ end
 def division(20, 5)). to eq(4)
 end
 
-def multiplication(1000,num2)
+def multiplication(1000,50). to eq(50000)
 end
 
-def modulo(num1, num2)
+def modulo(5, 3)
 end
 
 def square_root(num)
